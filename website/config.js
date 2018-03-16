@@ -4,7 +4,7 @@ var api_blockexplorer = "http://daemonhost.com:1118";
 
 var poolHost = "poolhost.com";
 
-var irc = "irc.freenode.net/#poolhost";
+var irc = "irc.freenode.net/#turtlepools";
 
 var email = "support@poolhost.com";
 
