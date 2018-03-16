@@ -422,7 +422,7 @@ var api = "http://poolhost:8117";
 var poolHost = "poolhost.com";
 
 /* IRC Server and room used for embedded KiwiIRC chat. */
-var irc = "irc.freenode.net/#forknote";
+var irc = "irc.freenode.net/#turtlepools";
 
 /* Contact email address. */
 var email = "support@poolhost.com";
