@@ -57,5 +57,9 @@ var networkStat = {
     "xci": [
         ["xci.mypool.online", "http://xci.mypool.online:42004"],
         ["xci.cryptonotepool.com", "http://5.189.135.137:8119"]
+    ],
+    "trtl": [
+        ["canada.fefmedia.com", "http://canada.fefmedia.com:8117"],
+        ["eu.turtlepool.space", "http://eu.turtlepool.space:8117"]
     ]
 };
